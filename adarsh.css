@@ -13,7 +13,7 @@
     font-size: 0.75rem;
     color: rgb(150, 135, 138);
     text-align: center;
-    font-size: 45px;
+    font-size: 35px;
     margin: bottom 0;
 }
 
@@ -26,7 +26,7 @@
 }
 /*panel*/
 nav ul li{
-    width: 149.75px;
+    width: 120px;
     height: 23px;
     padding: 11px;
     overflow: hidden;
