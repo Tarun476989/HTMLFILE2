@@ -1,0 +1,31 @@
+body{
+    background-color:#37475a  ;
+}
+.first{
+    background-image: url("campus.jpg");
+    height: 500px;
+    width: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 200px;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.second{
+    background-image: url("teachersday.jpg");
+    height: 500px;
+    width: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 200px;
+}
+.third{
+    background-image: url("fieldproject.jpg");
+    height: 500px;
+    width: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 200px;
+}
