@@ -7,7 +7,7 @@ body{
     width: 800px;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-left: 200px;
+    margin-left: 100px;
 }
 h2{
     text-align: center;
@@ -19,7 +19,7 @@ h2{
     width: 800px;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-left: 200px;
+    margin-left: 100px;
 }
 .third{
     background-image: url("fieldproject.jpg");
@@ -27,5 +27,5 @@ h2{
     width: 800px;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-left: 200px;
+    margin-left: 100px;
 }
