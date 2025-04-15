@@ -120,11 +120,10 @@ nav ul li:hover > ul{
 .gallery{
     height: 700px;
     margin-top: 10px;
-    width: 90%;
+    width: 100;
     border: 2px solid black;
     align-items: center;
     justify-content: space-evenly;
-    margin-left: 58px;
     background-image: url("AIMS 2025.02_2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
