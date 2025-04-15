@@ -26,8 +26,8 @@
 }
 /*panel*/
 nav ul li{
-    width: 90px;
-    height: 23px;
+    width: 100px;
+    height: 25px;
     padding: 11px;
     overflow: hidden;
     background-color: rgb(31, 94, 94);
